@@ -7,7 +7,7 @@ Drobne zmian wizualne na stronie Wykop.pl dla rozszerzeń [Stylus](https://chrom
 - Leciutko pogrubione tagi i oznaczenia użytkowników
 
 - Oznaczenie na kolorowo użytkowników którzy dali plusa ale tylko tych którzy mają bordo, są zbanowani lub nowi
-,dzięki czemu nie mamy natłoku pomarańczowego koloru jak w dodatku "Kolorowe plusy (nicki)" od kasper93
+dzięki czemu nie mamy natłoku pomarańczowego koloru jak w dodatku "Kolorowe plusy (nicki)" od kasper93
 
 
 ![alt text](https://github.com/esejek/wykop-better_small_things/blob/main/screenshot2.PNG "plusy")
