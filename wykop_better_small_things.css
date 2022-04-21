@@ -1,0 +1,74 @@
+.woodle
+{
+   display: none;
+}
+
+ul.related li > div span.data > span em.logoreklama, .article h2 a:visited, a.showSpoiler, a.show-more, .sub-menu.inline-list > *:after, .lcontrast .affect, blockquote p.description, .media-header p.description, .light, .usercard span.info, .article.preview h2 a + sup
+{
+  color: grey !important; /* Możliwość zmiany koloru systemowego we wpisach */
+}
+
+.media-content::before
+{
+   content: '';  /* Możliwość wstawienia czegoś na końcu tekstu przed wstawionym obrazkiem we wpisie */
+}
+
+.showTagSummary
+{
+   font-weight: bold; 
+}
+.media-content::before
+{
+   content: ''; 
+
+}
+
+.showTagSummary
+{
+   font-weight: bold; 
+}
+
+.showProfileSummary
+{
+   font-weight: bold; 
+}
+
+a.color-0
+  {
+    color: #339933 !important;
+  }
+
+a.color-4
+  {
+    color: #999999 !important;
+  }
+
+a.color-1001
+  {
+    color: #999999 !important;
+    font-weight: bold;
+  }
+
+a.color-1002
+  {
+    color: #999999 !important;
+    text-decoration: line-through !important;
+    font-weight: bolder;
+  }
+
+a.color-1002::after
+  {
+    color: #999999 !important;
+    content: ' (P) ';
+    font-weight: bolder;
+  }
+
+a.color-2001
+  {
+    color: #3f6fa0 !important;
+  }
+
+a.color-2
+  {
+    color: #BB0000 !important;
+  }
